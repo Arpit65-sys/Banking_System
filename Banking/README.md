@@ -7,11 +7,14 @@ This Simple Banking Application is a Java project designed for beginners to prac
 
 ## Features:
 User-Friendly Interface: Utilizes the console for user interaction, making it accessible to all users.
+
 Account Management: Users can create new bank accounts and perform transactions seamlessly.
+
 Database Integration: Utilizes MySQL database for storing account details and transaction history.
 
 ## Technologies Used:
 Java Programming Language
+
 MySQL Database
 
 ## Message from my side:
